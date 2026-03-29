@@ -75,11 +75,10 @@ peon-ping install sc2_scv_kr
 | `sounds/SCVPissed6_KR.wav` | 나 집에 갈래! |
 | `sounds/SCVHelp_KR.wav` | 사람 살려! |
 | `sounds/SCVPissed7_KR.wav` | 당신 마우스 정말 마음에 드는데? |
-| `sounds/SCVPissed8_KR.wav` | 야, 한 번은 우리 사촌 레스터가... |
 
 ## 참고
 
-- **고유 WAV 클립**: 28개
+- **고유 WAV 클립**: 27개
 - `SCVYes3`는 `task.acknowledge`와 `task.complete`에서 공유
 - `SCVSurprise`, `SCVWhat1`, `SCVWhat4`는 `input.required`와 `user.spam`에서 공유
 - 별칭 정의는 `openpeon.json`의 `category_aliases` 참고

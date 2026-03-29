@@ -22,8 +22,8 @@
     "task.acknowledge": {
       "sounds": [
         { "file": "sounds/SCVYes1_KR.wav", "label": "시키면 해야죠.", "sha256": "31f0c77a195c7b69177a3034694ae108729b298c1527a5a1166c980138d14065" },
-        { "file": "sounds/SCVYes2_KR.wav", "label": "이야~ 야근이다!", "sha256": "a2d9cbbfb94f6e1aa1280576fba6a639f52c8f71f936d75119b17551ae68c5a5" },
-        { "file": "sounds/SCVYes3_KR.wav", "label": "알겠습니다!", "sha256": "d5cc8dbd2085db412e3989e0236964fe265908192af01a50c71a79a5b479568d" },
+        { "file": "sounds/SCVYes2_KR.wav", "label": "이야~ 야근이다!", "sha256": "361321f382c09ece3e28cc13f5ee20ff2536be81e9e79f8676f63ad7cb072013" },
+        { "file": "sounds/SCVYes3_KR.wav", "label": "알겠습니다!", "sha256": "ec3a207040f249be4bf3c3c5d61399f8520c35752699555ca7987cb86fb22990" },
         { "file": "sounds/SCVYes4_KR.wav", "label": "마음대로 하세요!", "sha256": "958365658496ddfeaf323c65a4660b741c5a25932a2187cad7304657cf060c21" },
         { "file": "sounds/SCVYes5_KR.wav", "label": "예, 대장!", "sha256": "e1f773fa9f6ac18c63275542b50e79825a1fe63f1c9fdae99a1e52ae67522359" },
         { "file": "sounds/SCVYes6_KR.wav", "label": "그렇게 하죠!", "sha256": "9b1521b211e485242046f0549e37176dd4700f614fc591516e51048470e4837a" },
@@ -35,7 +35,7 @@
       "sounds": [
         { "file": "sounds/SCVComplete1_KR.wav", "label": "작업 끝!", "sha256": "e77d42fae9f8677f08e46f1eca9afbbf231834b2d3665da0cb7fcb1cb5bf9161" },
         { "file": "sounds/SCVComplete2_KR.wav", "label": "예, 알겠다고요!", "sha256": "70617d1a77e060b7dc74ff46802432ea14baf7ee884b41d6b5cc2ea7b2d97dff" },
-        { "file": "sounds/SCVYes3_KR.wav", "label": "알겠습니다!", "sha256": "d5cc8dbd2085db412e3989e0236964fe265908192af01a50c71a79a5b479568d" }
+        { "file": "sounds/SCVYes3_KR.wav", "label": "알겠습니다!", "sha256": "ec3a207040f249be4bf3c3c5d61399f8520c35752699555ca7987cb86fb22990" }
       ]
     },
     "task.error": {
@@ -66,10 +66,9 @@
         { "file": "sounds/SCVPissed1_KR.wav", "label": "여긴 뭐 찍겠는데요?", "sha256": "af62843202bc6b2d5c0bdeaa921695b7349cfc6cdb73db73fde76001f4bf8515" },
         { "file": "sounds/SCVPissed2_KR.wav", "label": "미친 거 아니야?", "sha256": "93a2b85989284772b89c5d42ce41658c8b3fd263d7b0f3bd6e5d514e03425100" },
         { "file": "sounds/SCVPissed5_KR.wav", "label": "이건 아니라고 봐!", "sha256": "d7462454cfee07b1744f56db2888d81c3b3e08cf50b10cd04bf7db8f0209085d" },
-        { "file": "sounds/SCVPissed6_KR.wav", "label": "나 집에 갈래!", "sha256": "600d5ba6e6b15387c6c03a9ede1ed2ea66b8097ca0a271aa4dfb299698906467" },
+        { "file": "sounds/SCVPissed6_KR.wav", "label": "나 집에 갈래!", "sha256": "1115906bf2e70577d6b0e4a3d5ad3ad76460babc052c384f835f7749612bac1c" },
         { "file": "sounds/SCVHelp_KR.wav", "label": "사람 살려!", "sha256": "cd3691108989f5d658e8d70d588f7c2bb93695c0792e5e90bbee4cf6e11409dd" },
-        { "file": "sounds/SCVPissed7_KR.wav", "label": "당신 마우스 정말 마음에 드는데?", "sha256": "6715034c6b40a6d898d8d2cebc044d4d39fef2a808cf183b891637501ea21cde" },
-        { "file": "sounds/SCVPissed8_KR.wav", "label": "야, 한 번은 우리 사촌 레스터가...", "sha256": "20f4f8a4206cd0b4ceb8a61dc8e19e33c8c683bb4794eed9d770a61f51b2ac45" }
+        { "file": "sounds/SCVPissed7_KR.wav", "label": "당신 마우스 정말 마음에 드는데?", "sha256": "6715034c6b40a6d898d8d2cebc044d4d39fef2a808cf183b891637501ea21cde" }
       ]
     }
   },
